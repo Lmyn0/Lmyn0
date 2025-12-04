@@ -83,9 +83,37 @@
 
 ## 📊 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lmyn0&theme=react-dark&hide_border=true)
-## 📊 GitHub Contribution
-![Contribution Graph](https://github.com/user-attachments/assets/7d459064-db9a-483f-9168-abe1bb501e2b)
 
 ## 📈 Recent GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lmyn0&theme=radical&hide_border=true)
 
+---
+
+## 🛡 Skill Badges (Tech Stack)
+
+### 💻 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-4A8FE7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+## 🛣️ Roadmap — What I Want to Learn Next
+
+| 분야 | 배우고 싶은 기술 | 목표 |
+|------|------------------|------|
+| 게임 개발 | Unity, Godot, Pygame 고급 기능 | 게임 시스템 설계 & 출시 |
+| 웹 개발 | Django, REST API |서버 개발 및 배포 경험 |
+| 보안 | AES, RSA, 공격기법 | 정보보안 프로젝트 제작 |
+| 알고리즘 | 자료구조, DP, 그래프 | 코딩 테스트 대비 |
+| 인프라 | Docker, CI/CD | 자동 배포 환경 구축 |
+
+## ⚙️ GitHub Actions Badge
+
+```markdown
+![CI](https://github.com/Lmyn0/OSS-team4/actions/workflows/main.yml/badge.svg)
