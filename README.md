@@ -83,6 +83,8 @@
 
 ## 📊 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lmyn0&theme=react-dark&hide_border=true)
+## 📊 GitHub Contribution
+![Contribution Graph](https://github.com/user-attachments/assets/7d459064-db9a-483f-9168-abe1bb501e2b)
 
 ## 📈 Recent GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lmyn0&theme=radical&hide_border=true)
