@@ -89,9 +89,9 @@
 
 ---
 
-## 🛡 Skill Badges (Tech Stack)
+## 🛡 Skill Badges
 
-### 💻 Languages & Tools
+## Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 🛣️ Roadmap — What I Want to Learn Next
+## Roadmap — 앞으로 배우고 싶은 기술
 
 | 분야 | 배우고 싶은 기술 | 목표 |
 |------|------------------|------|
@@ -112,8 +112,3 @@
 | 보안 | AES, RSA, 공격기법 | 정보보안 프로젝트 제작 |
 | 알고리즘 | 자료구조, DP, 그래프 | 코딩 테스트 대비 |
 | 인프라 | Docker, CI/CD | 자동 배포 환경 구축 |
-
-## ⚙️ GitHub Actions Badge
-
-```markdown
-![CI](https://github.com/Lmyn0/OSS-team4/actions/workflows/main.yml/badge.svg)
