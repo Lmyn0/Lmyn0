@@ -20,6 +20,7 @@
 - Email: leemin2769@naver.com
 
 ---
+
 ## 프로젝트명  
 **ZERO EXIT**
 
@@ -44,10 +45,54 @@
 
 ## 현재 구현된 기능 요약
 
-- ✔ Kruskal 알고리즘으로 미로 자동 생성  
-- ✔ 플레이어 이동  
-- ✔ 난이도 선택 시스템  
-- ✔ 디버프 아이템 3종 (SLOW / REVERSE / TIME LEFT)  
-- ✔ HUD(남은 시간, 디버프 지속시간 표시)  
-- ✔ 게임 오버 및 재시작 화면 
+-  Kruskal 알고리즘으로 미로 자동 생성  
+-  플레이어 이동  
+-  난이도 선택 시스템  
+-  디버프 아이템 3종 (SLOW / REVERSE / TIME LEFT)  
+-  HUD(남은 시간, 디버프 지속시간 표시)  
+-  게임 오버 및 재시작 화면 
+
+---
+
+## 담당 역할  
+**게임 로직 개발 · 기능 구현 · GitHub 협업 관리**
+
+###  주요 담당 업무
+
+- **게임 핵심 시스템 개발**
+  - Pygame 기반 플레이어 이동 로직 개선 및 버그 수정  
+  - Kruskal 미로 생성 알고리즘과 메인 게임 루프 연동  
+  - 난이도 선택 화면, 타이머, HUD 등 주요 UI 기능 구현
+
+- **디버프 시스템 개발**
+  - SLOW, REVERSE, TIME LEFT 디버프 설계 및 코드 구현  
+  - 디버프 아이템 스폰 로직 개선 및 버그 해결  
+  - 남은 시간 감소(시간 차감), 속도 변화, 반전 효과 등 게임 플레이 요소 강화
+
+- **프로젝트 구조 리팩토링**
+  - main.py, maze.py, player.py, renderer.py 등 모듈 분리 정리  
+  - 충돌 코드, 중복 로직 제거 및 가독성 개선
+
+###  기여 포인트 요약
+
+- 미로 알고리즘부터 디버프 효과까지 **게임 플레이 전반의 핵심 기능 구현 담당**  
+- 협업 과정에서 GitHub PR/Issue 중심으로 팀 전체 작업 흐름을 정리하고 관리  
+- 기능 추가뿐 아니라 **프로젝트 유지보수성과 확장성을 높이는 구조적 개선**까지 수행
+
+---
+
+## 📊 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lmyn0&theme=react-dark&hide_border=true)
+
+## 📈 Recent GitHub Activity
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Lmyn0&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lmyn0&theme=radical)
+
+## 🏆 GitHub Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Lmyn0&theme=onedark&margin-w=15)
+
+
 
