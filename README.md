@@ -14,7 +14,7 @@
 - Email: leemin2769@naver.com
 
 ---
-## 주요 프로젝트 1: 웹 보안 및 퍼징 테스트
+## 주요 프로젝트 1: 웹 보안 및 퍼징 테스트(진행중)
 
 ### 프로젝트명  
 **LLM_sql_injection_fuzzing**
