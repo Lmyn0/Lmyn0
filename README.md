@@ -1,39 +1,42 @@
 ##  자기소개(About Me)
 - 이름: 이민호
 - 전공: 컴퓨터공학과 3학년
-- 관심 분야: 게임 개발, 보안, 환경공학
+- 관심 분야: 정보보안(웹/암호학), 환경공학
 
 ## 기술 스택
-- **Languages:** Python, C, Java (기초)
-- **Web:** HTML, CSS (기초), Flask (기초)
-- **Tools & Collaboration:** Git, GitHub, VS Code
+- **Languages:** Python, C, Java (기초), PHP(기초)
+- **Web:** HTML, CSS (기초), Flask (기초), Apache, MySQL
+- **Tools & Collaboration:** Git, GitHub, VS Code, XAMPP
 
-> 지금은 학교 프로젝트와 오픈소스 수업을 통해 Python, Git/GitHub 사용 경험을 쌓고 있습니다.
-
-## 관심 분야
-- 1. 게임 개발  
-  - Pygame을 활용한 미로 탈출 게임, 디버프 시스템 등 구현 경험
-- 2. 정보보안 / 암호학  
-  - 모듈러 연산, 암호 알고리즘, 공격 기법(선택평문공격 등)에 관심
+> 현재 학교 프로젝트와 오픈소스 연구, 로컬 서버 기반의 웹 보안 취약점 분석 및 자동화 실험 환경을 구축하며 실무 역량을 쌓고 있습니다.
 
 ## 연락처
 - Email: leemin2769@naver.com
 
 ---
+## 주요 프로젝트 1: 웹 보안 및 퍼징 테스트
 
-## 프로젝트명  
+### 프로젝트명  
+**LLM_sql_injection_fuzzing**
+
+### 현재 구현된 웹 아키텍처
+- **Back-end:** PHP 8.x 기반의 로그인 인증 처리 로직
+- **Database:** MySQL 기반의 회원 데이터 관리 (`security_test` DB)
+- **Vulnerability:** 사용자 입력값($user_id, $user_pw)을 검증 없이 SQL 쿼리에 직접 결합하여 **SQL Injection 취약점이 의도적으로 노출된 구조 구현**
+
+---
+## 주요 프로젝트 2 : 오픈소스 협업 게임 개발
+
+## 프로젝트 명
 **ZERO EXIT**
 
 ##  한 줄 핵심 설명  
 **Kruskal 알고리즘 기반 자동 미로 생성 + 타이머 + 디버프 시스템이 포함된 파이썬 미로 탈출 게임**
 
-## GitHub Repository  
- - https://github.com/Lmyn0/OSS-team4
-
 ## 프로젝트 목적 / 해결하려는 문제
 
  - 이 프로젝트는 **오픈소스 개발 프로세스(Git Flow, Issue, PR 리뷰)**를 실습하며  
- 실제 협업 환경에서 소프트웨어를 개발하는 경험을 쌓는 것을 목표로 합니다.
+실제 협업 환경에서 소프트웨어를 개발하는 경험을 쌓는 것을 목표로 합니다.
 
  - 또한 다음 문제를 해결하고자 합니다:
 
@@ -107,7 +110,6 @@
 
 | 분야 | 배우고 싶은 기술 | 목표 |
 |------|------------------|------|
-| 게임 개발 | Unity, Godot, Pygame 고급 기능 | 게임 시스템 설계 & 출시 |
 | 웹 개발 | Django, REST API |서버 개발 및 배포 경험 |
 | 보안 | AES, RSA, 공격기법 | 정보보안 프로젝트 제작 |
 | 알고리즘 | 자료구조, DP, 그래프 | 코딩 테스트 대비 |
